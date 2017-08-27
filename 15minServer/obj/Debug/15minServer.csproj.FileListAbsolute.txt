@@ -1,0 +1,24 @@
+F:\projects\15minServer\15minServer\bin\Debug\15minServer.exe.config
+F:\projects\15minServer\15minServer\bin\Debug\15minServer.exe
+F:\projects\15minServer\15minServer\bin\Debug\15minServer.pdb
+F:\projects\15minServer\15minServer\obj\Debug\15minServer.csprojResolveAssemblyReference.cache
+F:\projects\15minServer\15minServer\obj\Debug\15minServer.exe
+F:\projects\15minServer\15minServer\obj\Debug\15minServer.pdb
+D:\учеба\5-й семестр\Практика\15minServer\15minServer\15minServer\bin\Debug\15minServer.exe.config
+D:\учеба\5-й семестр\Практика\15minServer\15minServer\15minServer\obj\Debug\15minServer.exe
+D:\учеба\5-й семестр\Практика\15minServer\15minServer\15minServer\obj\Debug\15minServer.pdb
+D:\учеба\5-й семестр\Практика\15minServer\15minServer\15minServer\bin\Debug\15minServer.exe
+D:\учеба\5-й семестр\Практика\15minServer\15minServer\15minServer\bin\Debug\15minServer.pdb
+D:\учеба\5-й семестр\Практика\15minServer\15minServer\15minServer\obj\Debug\15minServer.csprojResolveAssemblyReference.cache
+E:\15minServer\15minServer\15minServer\bin\Debug\15minServer.exe.config
+E:\15minServer\15minServer\15minServer\obj\Debug\15minServer.exe
+E:\15minServer\15minServer\15minServer\obj\Debug\15minServer.pdb
+E:\15minServer\15minServer\15minServer\bin\Debug\15minServer.exe
+E:\15minServer\15minServer\15minServer\bin\Debug\15minServer.pdb
+E:\15minServer\15minServer\15minServer\obj\Debug\15minServer.csprojResolveAssemblyReference.cache
+E:\proj\15minServer\15minServer\bin\Debug\15minServer.exe.config
+E:\proj\15minServer\15minServer\obj\Debug\15minServer.exe
+E:\proj\15minServer\15minServer\obj\Debug\15minServer.pdb
+E:\proj\15minServer\15minServer\bin\Debug\15minServer.exe
+E:\proj\15minServer\15minServer\bin\Debug\15minServer.pdb
+E:\proj\15minServer\15minServer\obj\Debug\15minServer.csprojResolveAssemblyReference.cache
